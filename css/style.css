@@ -628,6 +628,7 @@ footer {
         width: 100%;
         background-color: var(--primary-color-buttons);
         border-radius: 10px;
+        border: none;
     }
 
     input {
